@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "remotehealth-40d3f",
+  "private_key_id": "c11073d83f7bcc42c073e24feb34b8fdc19b9231",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0fbDhTc9ZY7K4\np9lj7v5HxpzDggES9IKr6Xmz2r1epKs2u5jx066aCAGpTPeqkvFVtgIRxGNGP2FF\niOdPUl8lDb4zuGGrLMJ1I19UwLdgNweH79rOhKpGxx00R5RE0f7k5yz1Bykxb0Hr\nwNC7x7e36cLE61+NPnpu/n3tG2rygoZ9E47YGn+XJ0OFVlYL9ADduxquUb8YePdU\na+Y0x6r4tMdcuwfAZHLOaP7PO0IxU7lsrD9xGNBabMRVB3QN0ZlG+FwtCBkhPosb\ngxL09YcVwxSX+EMOLe6PU5bg/3/LC1xlRuRKMszUjiiItGWmkGn2IWZ4MFPlUsdE\n8tx4wJWDAgMBAAECggEAGYK2cHHd/8VuqljXCh/qgtyYpa2HV1WF7qR2VixxnaHq\nrTbAvFVuFUlSasp9KvfP8oxiKH64hWJJ7lkWUIjU99jEbG0AKQCPj5zrSYBfqtK8\nVsNZCt2Hb6+O+iev1jZUL6hZG1zivqD6EUdUeWYWGoGIzOpzu/P7vBpuVAgPCq2Y\n7e1+N8sVhiEWE5gGEBO6lNBmDKwzqqbavU5YMBvCpbGeJWt2MQ/v9dViUtJIaiA6\ngxWKhfC2bnIIg/Q6glywzE5r9elgQ/H+q/IVDItJDrG4/hM5MLYJYUld+igIRmL3\nQ8+7ovh1vKAfnEXfcoXJ/QZKmAac70VijHFnZOdq2QKBgQD0fDlzJkDmf8ZQHb/5\nVbP6V18r6koRAseTeExtUo+5Rk5sH8U/JsinKKyX+03ubNINwRIe4/HtodS+Mbmq\nOSCe052PIdb6OAYCnjdJZVkhKV4VaNarOZIPYWs0DgNd3JXceZGeRqqft9nIkmZE\nT9TYi+uyNYRMdptxIUtsKquVjQKBgQC8/eIXWQtkDOMykEsr/EKMxQMqvFcLK23A\nfnytdsurdYlEIfhBBuGM3OO5e+MRQxfU3kJHz1z8/9QpreHMaZC/1T0ARfBAkFVl\nh84KNr/P2yCo2itsqeBFO7SdbWtUzJ/1odW8AO5wytkgFRtefPm8nczOJbsCYM5V\n1wvK49nrTwKBgQDnsnbLnvwwtfUeZiNSS5tma7khKEeLOYQkSQS9MlpM7slRhQZs\no/fTGyP+YMZpZ63mJQxkRAg5+X1hxkQ7gypb+xa92AchWUiw4Hpqz2aZm9ezGIkg\n+k1m0B9F1OXx5SQNLxUG19fJx/XYNI5AvRttIaV8XWWFBX6oxzHwT7wO3QKBgG81\nZekfOJizDK4gQluroO18sJRhJ0cnUvnGdE8ObGKEUzWIV7DL/8UH5eirgb4SoN9d\nudrPpoQpdgrgitHh/I8lRzP1853KULXh59gSx2PkKZ+yYYMboyCaNXm9fT70+dts\nU3zBf41Xj9RVFznOiJX4tR9JDHYlyMSyOfo1gXH5AoGAatw1NQq0eucaRo7/3dh0\npgxJaXiX9CK4MEUlPtvhm4+A62uDOJqzaIrHgH+bAQpbmNAfiWguG51UfLXNgWwy\n0/7ELOj9o0ilUR6ZIYZWEqpCRgJAxTbwzsj3MJoJMFB1/b/HJjNe0nXT13yuPQMy\n7SjVm08ea5N6cKPPh2HmeEQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-89gch@remotehealth-40d3f.iam.gserviceaccount.com",
+  "client_id": "114492877198976989207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-89gch%40remotehealth-40d3f.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
